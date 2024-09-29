@@ -13,8 +13,6 @@ const containsDuplicate2 = function (nums) {
         set.add(nums[i]);
     }
     return false;
-}
-
-
+};
 
 console.log(containsDuplicate([1, 4, 2, 3, 4]));
