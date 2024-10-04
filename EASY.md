@@ -2,12 +2,12 @@
 
 ## Arrays & Strings
 
-1. [1] Two Sum
-2. [26] Remove Duplicates from Sorted Array
-3. [27] Remove Element
-4. [35] Search Insert Position
-5. [66] Plus One
-6. [67] Add Binary
+1. [1] Two Sum [x]
+2. [26] Remove Duplicates from Sorted Array [x]
+3. [27] Remove Element [x]
+4. [35] Search Insert Position [x]
+5. [66] Plus One [x]
+6. [67] Add Binary []
 7. [88] Merge Sorted Array
 8. [118] Pascal's Triangle
 9. [121] Best Time to Buy and Sell Stock
